@@ -1,2 +1,19 @@
-demo1 file
-changes made by the dev in dev branch
+some code
+
+{
+bugfix-123 in progress
+code of bug fix -123
+//some change
+
+}
+
+
+some code 
+
+{
+
+code for bugfix-130
+//some code
+
+
+}
